@@ -1,7 +1,7 @@
-# atividades-algoritmos
+# Atividades de algoritmo
 Atividades do primeiro módulo do curso técnico de Análise e Desenvolvimento de Sistemas.
 
-Atividades introdutórias para o estudo de:
+# Tópicos do estudo
 - Lógica de programação.
 - Algoritmos: naturais e estruturados; representações visuais, linguagem algorítmica, comandos de entrada, processamento e saída de dados.
 - Manipulação de dados.
