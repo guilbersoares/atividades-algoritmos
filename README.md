@@ -1,4 +1,4 @@
-# i-atividades-curso
+# atividades-algoritmos
 Atividades do primeiro módulo do curso técnico de Análise e Desenvolvimento de Sistemas.
 
 Atividades introdutórias para o estudo de:
